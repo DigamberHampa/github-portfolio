@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Digamber Hampa | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Digamber Hampa</h1>
+    <p>SharePoint & Power Platform Consultant</p>
+</header>
+
+<section class="container">
+    <h2>About Me</h2>
+    <p>
+        Experienced SharePoint and Power Platform Consultant with 8+ years of experience
+        delivering enterprise solutions using SharePoint Online, Power Apps,
+        Power Automate, SPFx, and Microsoft 365.
+    </p>
+</section>
+
+<section class="container">
+    <h2>Skills</h2>
+    <div class="skills">
+        <span>SharePoint Online</span>
+        <span>Power Apps</span>
+        <span>Power Automate</span>
+        <span>SPFx</span>
+        <span>Power BI</span>
+        <span>JavaScript</span>
+        <span>HTML / CSS</span>
+        <span>SQL</span>
+    </div>
+</section>
+
+<section class="container">
+    <h2>Projects</h2>
+
+    <div class="project">
+        <h3>HR Leave Tracker</h3>
+        <p><strong>Tech:</strong> SharePoint, Power Apps, Power Automate</p>
+        <p>Automated leave application system with approval workflow.</p>
+    </div>
+
+    <div class="project">
+        <h3>Intranet Portal</h3>
+        <p><strong>Tech:</strong> SharePoint Online, SPFx</p>
+        <p>Modern intranet portal with custom web parts.</p>
+    </div>
+</section>
+
+<section class="container">
+    <h2>Resume</h2>
+    <a class="btn" href="#">Download Resume</a>
+</section>
+
+<section class="container">
+    <h2>Contact</h2>
+    <p>Email: digamber.h@greenman.com</p>
+    <p>LinkedIn: linkedin.com/in/digamberhampa</p>
+</section>
+
+<footer>
+    <p>© 2026 Digamber Hampa</p>
+</footer>
+
+</body>
+</html>
